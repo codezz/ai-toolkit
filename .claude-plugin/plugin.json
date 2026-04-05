@@ -1,0 +1,16 @@
+{
+  "name": "ai-toolkit",
+  "description": "A collection of AI skills, agents, and plugins for LLMs",
+  "version": "1.0.0",
+  "author": {
+    "name": "codezz"
+  },
+  "homepage": "https://github.com/codezz/ai-toolkit",
+  "repository": "https://github.com/codezz/ai-toolkit",
+  "license": "MIT",
+  "keywords": [
+    "skills",
+    "token-saving",
+    "productivity"
+  ]
+}

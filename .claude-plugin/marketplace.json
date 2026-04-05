@@ -1,0 +1,18 @@
+{
+  "name": "ai-toolkit",
+  "description": "A collection of AI skills, agents, and plugins for LLMs",
+  "owner": {
+    "name": "codezz"
+  },
+  "plugins": [
+    {
+      "name": "ai-toolkit",
+      "description": "A collection of AI skills, agents, and plugins for LLMs",
+      "version": "1.0.0",
+      "source": "./",
+      "author": {
+        "name": "codezz"
+      }
+    }
+  ]
+}

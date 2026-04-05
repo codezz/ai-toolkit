@@ -10,10 +10,20 @@ A collection of AI skills, agents, and plugins for LLMs.
 
 ## Installation
 
-### Claude Code
+### Claude Code (plugin)
 
 ```bash
-claude mcp add-skill <skill-path>
+/plugin marketplace add codezz/ai-toolkit
+/plugin install ai-toolkit
+```
+
+### Manual
+
+Copy the skill to your local skills directory:
+
+```bash
+git clone https://github.com/codezz/ai-toolkit.git
+cp -r ai-toolkit/skills/caveman ~/.claude/skills/caveman
 ```
 
 ## Structure
