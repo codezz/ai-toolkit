@@ -8,7 +8,7 @@
     {
       "name": "ai-toolkit",
       "description": "A collection of AI skills, agents, and plugins for LLMs",
-      "version": "1.1.0",
+      "version": "1.1.1",
       "source": "./",
       "author": {
         "name": "codezz"
